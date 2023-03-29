@@ -13,6 +13,10 @@ ul li {
   margin-bottom: 5px;
 }
 
+.empty {
+  height: 10rem;
+}
+
 h4 {
   margin-bottom: 0.8rem;
 }

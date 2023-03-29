@@ -65,10 +65,10 @@ function App() {
         <Header />
         <Container maxWidth="md">
         <div className=''>
-        <div className='listTwo'>
+        {/* <div className='listTwo'>
         <OneHeader />
         {renderArr}
-        </div>
+        </div> */}
         <div className='listTwo'>
         <TwoHeader />
         <AddTodo todo={todo} setTodo={setTodo} />
